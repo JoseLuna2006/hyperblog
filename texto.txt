@@ -3,3 +3,7 @@ Hola, mi nombre es Jose Mnanuel Luna Bermeo
 SOy estudiante de la universidad del Valle
 
 Tengo 18 años y así es como comienza mi historia.   
+
+Ahora entraremos a trabajar de forma remota utilizando github
+
+o gitlab. 
